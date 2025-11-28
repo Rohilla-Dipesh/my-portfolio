@@ -4,9 +4,10 @@ export default function Hero({ reelRef, scrollToSection }) {
       <div className="absolute inset-0 bg-gradient-to-b from-slate-950/80 to-slate-950"></div>
 
       <img 
-        src="/public/images/headshot_1.jpeg"
-        className="absolute inset-0 w-full h-full object-cover opacity-30"
-      />
+  src="/images/headshot_1.jpeg"
+  className="absolute inset-0 w-full h-full object-cover opacity-30"
+/>
+
 
       <div className="relative text-center z-10">
         <h2 className="text-6xl md:text-8xl font-bold mb-4">ALEX MORGAN</h2>
