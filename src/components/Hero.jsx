@@ -10,7 +10,7 @@ export default function Hero({ reelRef, scrollToSection }) {
 
 
       <div className="relative text-center z-10">
-        <h2 className="text-6xl md:text-8xl font-bold mb-4">ALEX MORGAN</h2>
+        <h2 className="text-6xl md:text-8xl font-bold mb-4">Dipesh Rohilla</h2>
         <p className="text-xl md:text-3xl text-cyan-400">ACTOR • PERFORMER • ARTIST</p>
 
         <button 

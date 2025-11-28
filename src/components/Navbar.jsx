@@ -6,7 +6,7 @@ export default function Navbar({ navItems, scrolled, isMenuOpen, setIsMenuOpen, 
       ${scrolled ? 'bg-slate-950/95 backdrop-blur-sm py-4 shadow-lg' : 'bg-transparent py-6'}`}>
 
       <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
-        <h1 className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">ALEX MORGAN</h1>
+        <h1 className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">Dipesh Rohilla</h1>
 
         <div className="hidden md:flex gap-8">
           {navItems.map((i) => (
