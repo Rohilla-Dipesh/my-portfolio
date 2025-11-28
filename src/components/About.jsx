@@ -8,9 +8,10 @@ export default function About({ aboutRef }) {
 
         <div className="grid md:grid-cols-2 gap-12">
           <img 
-            src="actor-portfolio\public\images\photoshoot-4.jpeg"
+            src="/images/photoshoot-4.jpeg"
             className="rounded-lg shadow-lg border border-cyan-500/20"
-          />
+        />
+
 
           <div>
             <p className="text-lg text-slate-300 mb-6">
