@@ -8,7 +8,7 @@ export default function About({ aboutRef }) {
 
         <div className="grid md:grid-cols-2 gap-12">
           <img 
-            src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=600"
+            src="actor-portfolio\public\images\photoshoot-4.jpeg"
             className="rounded-lg shadow-lg border border-cyan-500/20"
           />
 

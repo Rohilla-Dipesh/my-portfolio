@@ -4,7 +4,7 @@ export default function Hero({ reelRef, scrollToSection }) {
       <div className="absolute inset-0 bg-gradient-to-b from-slate-950/80 to-slate-950"></div>
 
       <img 
-        src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1600"
+        src="actor-portfolio\public\images\headshot_1.jpeg"
         className="absolute inset-0 w-full h-full object-cover opacity-30"
       />
 

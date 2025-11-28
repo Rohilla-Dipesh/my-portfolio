@@ -7,7 +7,7 @@ export default function Showreel({ reelRef }) {
 
       <div className="relative aspect-video max-w-4xl mx-auto rounded-lg overflow-hidden bg-slate-900">
         <img 
-          src="https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1200"
+          src="https://youtu.be/hlah3L8VHd4?si=H4iQPOK7KawjIT8l"
           className="w-full h-full object-cover opacity-80"
         />
 
