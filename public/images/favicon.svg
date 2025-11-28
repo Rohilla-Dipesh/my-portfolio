@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="dr-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4"></stop>   <!-- cyan-500 -->
+      <stop offset="100%" stop-color="#3b82f6"></stop> <!-- blue-500 -->
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded background -->
+  <rect width="256" height="256" rx="40" fill="url(#dr-gradient)"></rect>
+
+  <!-- Text -->
+  <text x="50%" y="56%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, sans-serif" font-size="130" font-weight="800" fill="white" letter-spacing="-4">
+    DR
+  </text>
+</svg>
