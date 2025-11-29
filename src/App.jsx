@@ -8,6 +8,7 @@ import About from "./components/About";
 import Work from "./components/Work";
 import TrainingAwards from "./components/TrainingAwards";
 import Showreel from "./components/Showreel";
+import Gallery from "./components/Gallery";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
