@@ -8,7 +8,17 @@ export default function Gallery({ galleryRef }) {
     "/images/photoshoot-4.jpeg",
     "/images/photoshoot-5.jpeg",
     "/images/photoshoot-3.jpeg",
-    // add more...
+    "/images/photoshoot-1.jpeg",
+    "/images/photoshoot-2.jpeg",
+    "/images/perform_3.jpeg",
+    "/images/perform_1.jpeg",
+    "/images/perform_4.jpeg",
+    "/images/perform_5.jpeg",
+    "/images/perform_6.jpeg",
+    "/images/at-window.jpg",
+    "/images/rocks-beach.jpeg",
+    "/images/rocks-beach-1.jpg",
+    "/images/rocks-beach-2.jpg",
   ];
 
   // Video list
