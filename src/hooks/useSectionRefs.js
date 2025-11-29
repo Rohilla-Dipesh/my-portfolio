@@ -6,6 +6,7 @@ export default function useSectionRefs() {
     aboutRef: useRef(null),
     workRef: useRef(null),
     reelRef: useRef(null),
+    galleryRef: useRef(null),
     contactRef: useRef(null),
   };
 }

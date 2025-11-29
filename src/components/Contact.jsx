@@ -14,7 +14,7 @@ export default function Contact({ contactRef }) {
           <div className="space-y-4 text-slate-300">
             <p className="flex items-center gap-3">
               <Mail className="text-cyan-400" /> 
-              dipeshrohilla.dr@gmail.com
+              dipeshr061@gmail.com
             </p>
             <p className="flex items-center gap-3">
               <Phone className="text-cyan-400" /> 

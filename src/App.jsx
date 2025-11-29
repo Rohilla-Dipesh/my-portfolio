@@ -21,6 +21,7 @@ export default function App() {
     { name: "About", ref: refs.aboutRef },
     { name: "Work", ref: refs.workRef },
     { name: "Reel", ref: refs.reelRef },
+    { name: "Gallery", ref: refs.galleryRef },
     { name: "Contact", ref: refs.contactRef }
   ];
 
@@ -40,6 +41,7 @@ export default function App() {
       <Work workRef={refs.workRef} />
       <TrainingAwards />
       <Showreel reelRef={refs.reelRef} />
+      <Gallery galleryRef={refs.galleryRef} />
       <Contact contactRef={refs.contactRef} />
       <Footer />
     </>
